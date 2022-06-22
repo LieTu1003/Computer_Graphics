@@ -1,0 +1,1 @@
+在实验一，我们进行了codeblocks上OpenGl的配置,运行了HelloOpenGL程序，然后运行书上的代码实现了直线段的生成
